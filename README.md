@@ -1,1 +1,1 @@
-# AngularWebWithNetCoreRemincer
+# AngularWebWithNetCoreReminder
